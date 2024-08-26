@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Satyam, working hard to become a full-stack freelance developer 👨‍💻 Exploration is my thing 🚀</div>  
+### <div align="center">I'm Satyam, working hard to become a full-stack developer 👨‍💻 Exploration is my thing 🚀</div>  
   
 
 - 🔭 I’m currently working on [FlyMusica](https://github.com/TheGoodCoder12/FlyMusica)  
