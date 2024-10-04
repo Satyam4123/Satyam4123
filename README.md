@@ -8,10 +8,10 @@
 ### <div align="center">I'm Satyam, working hard to become a full-stack developer 👨‍💻 Exploration is my thing 🚀</div>  
   
 
-- 🔭 I’m currently working on [FlyMusica](https://github.com/TheGoodCoder12/FlyMusica)  
+- 🔭 I’m currently working on [Twitter-Clone](https://github.com/TheGoodCoder12/Twitter-Clone.git) (just testing out my tailwind skills) 
   
 
-- 🌱 I’m currently learning Express and Data Structures  
+- 🌱 I’m currently learning Tailwind CSS, Express and Data Structures  
   
 
 - ❓ Ask me anything! Always ready to help  
