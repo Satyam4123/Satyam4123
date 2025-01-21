@@ -1,43 +1,43 @@
 ## Hi there 👋
 
 <div align="center">
-<img src="https://media.tenor.com/7pyDepP8SOQAAAAM/cat-wif.gif" align="center" style="width: 100%" />
+<img src="https://i.gifer.com/1fZB.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Satyam, working hard to become a full-stack developer 👨‍💻 Exploration is my thing 🚀</div>  
+### <div align="center">I'm Satyam, learning new things in full-stack development👨‍💻 Exploration is my thing 🚀</div>  
   
 
-- 🔭 I’m currently working on [Twitter-Clone](https://github.com/TheGoodCoder12/Twitter-Clone.git) (just testing out my tailwind skills) 
+- 🔭 I’m currently working on [EchoLingua](https://github.com/TheGoodCoder12/EchoLingua.git)  
   
 
-- 🌱 I’m currently learning Tailwind CSS, Express and Data Structures  
+- 🌱 I’m currently learning React and Data Structures  
   
 
-- ❓ Ask me anything! Always ready to help  
+- ❓  Ask me anything! Always ready to help  
   
 
-- ⚡ Fun fact: I love user snippets  
+- ⚡Fun fact: I love user snippets  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
 ### Frontend  
 <div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -49,12 +49,9 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
@@ -65,9 +62,6 @@
 <div align="center">
 <a href="https://github.com/TheGoodCoder12" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/satyam-shukla-88517927a" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -76,10 +70,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TheGoodCOder12&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TheGoodCoder12&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
@@ -88,11 +81,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=TheGoodCoder12&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
-
-<div align="center"></div>
 <br />
 
 ----
