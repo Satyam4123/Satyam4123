@@ -8,7 +8,7 @@
 ### <div align="center">I'm Satyam, learning new things in full-stack development👨‍💻 Exploration is my thing 🚀</div>  
   
 
-- 🔭 I’m currently working on [EchoLingua](https://github.com/TheGoodCoder12/EchoLingua.git)  
+- 🔭 I’m currently working on [To-do-list](https://github.com/TheGoodCoder12/To-do-list.git)  
   
 
 - 🌱 I’m currently learning React and Data Structures  
